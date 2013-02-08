@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<quiz>
 <question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples</text>
@@ -29,6 +30,7 @@
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>
+
 <question type="pairmatching">
 	<name>
 		<text>Demo question d'appariement</text>
@@ -52,3 +54,4 @@
 	</subquestion>
 	<shuffleanswers>true</shuffleanswers>
 </question>
+</quiz>
